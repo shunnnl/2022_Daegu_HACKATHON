@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "study1",
+            "cwd": "study1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "study1 (profile mode)",
+            "cwd": "study1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "study1 (release mode)",
+            "cwd": "study1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "study2",
+            "cwd": "study2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "study2 (profile mode)",
+            "cwd": "study2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "study2 (release mode)",
+            "cwd": "study2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "marketmap",
+            "cwd": "map\\marketmap",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "marketmap (profile mode)",
+            "cwd": "map\\marketmap",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "marketmap (release mode)",
+            "cwd": "map\\marketmap",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_application_2",
+            "cwd": "study1\\flutter_application_2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_application_2 (profile mode)",
+            "cwd": "study1\\flutter_application_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_application_2 (release mode)",
+            "cwd": "study1\\flutter_application_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
